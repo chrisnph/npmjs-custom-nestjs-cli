@@ -1,5 +1,5 @@
 {
-  "name": "pcari-nestjs-cli",
+  "name": "custom-nestjs-cli",
   "version": "0.0.11",
   "description": "",
   "publishConfig": {
@@ -10,7 +10,7 @@
     "npm": ">= 6.11.0"
   },
   "bin": {
-    "pcari": "bin/pcari.js"
+    "nestC": "bin/nestC.js"
   },
   "scripts": {
     "publish:npm": "npm publish",
@@ -22,7 +22,7 @@
     "url": ""
   },
   "contributors": [
-    "pcari"
+    "chrisnph"
   ],
   "license": "MIT",
   "homepage": "",
